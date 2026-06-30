@@ -1,0 +1,10 @@
+opencv-contrib-python
+numpy
+matplotlib
+pillow
+scipy
+scikit-image
+pytesseract
+ultralytics
+torch
+torchvision
